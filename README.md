@@ -2,7 +2,7 @@
 
 <p>Pyramid Maker is a simple Java program that allows users to create pyramids of a specified height.</p>
 
-<h2>Usage 🔺</h2>
+<h2>Usage ⚡</h2>
 
 <ol>
   <li>Clone the repository to your local machine:</li>
